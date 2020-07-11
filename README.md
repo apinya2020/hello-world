@@ -1,6 +1,7 @@
 # hello-world
 
-Hi Humans!
-How you like that
-Hubot hear, I like Node.js and Coffeescript(that's what I'm made of!).
-I've had tacos on the moon and find them far superior to Earth tacos.
+| Tables        | Are           | Cool   |
+| ------------- |:-------------:| -----: |
+| col 3 is      | right-aligned | 53231฿ |
+| col 2 is      | centered      |   399฿ |
+| zebra stripes | are neat      |    33฿ |
